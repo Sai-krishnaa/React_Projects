@@ -23,7 +23,7 @@ A simple **BMI (Body Mass Index) Calculator** built with **React** using **Hooks
 
 ## 📸 Screenshots
 
-![BMI App Screenshot](./Images/Screenshot%202025-02-21%20155951.png)
+![BMI App Screenshot](./Images/Screenshot.png)
 
 ---
 
