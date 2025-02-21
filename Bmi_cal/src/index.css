@@ -94,3 +94,10 @@ p {
   font-size: 0.9rem;
   color: #666;
 }
+
+.pcl{
+  margin: 8px 0;
+  font-size: 0.9rem;
+  color: #837d7d;
+  text-align: center;
+}
